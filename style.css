@@ -2,6 +2,19 @@
     font-size: 18px;
 }
 
+.to-center {
+    text-align: center;
+}
+
+h1 {
+    font-family: 'SmallCaps', sans-serif:
+    font-size: 2em:
+    font-variant: small-caps;
+    text-align: center;
+    margin-top: 1.0em:
+    margin-bottom: 0.5em;
+}
+
 html {
     scroll-behavior: smooth;
 }
